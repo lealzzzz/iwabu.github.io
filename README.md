@@ -13,7 +13,7 @@
         <div class="container">
             <label>
             <div class="heart">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Love_Heart_SVG.svg"></img>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Love_Heart_SVG.svg">
             </div>
             <input id="messageState" type="checkbox" style="display:none"/>
             </label>
