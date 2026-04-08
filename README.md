@@ -21,7 +21,7 @@
                 <h1 style="font-family: Cinzel, serif; font-size: 40px; letter-spacing: 1.2px;">HAPPY BIRTHDAY BEBIIII !,</h1>
                 <p> 
                     <span>
-                        &emsp;  ’m so thankful for you, not just for the happy moments and laughter we share, but especially for staying with me through all our ups and downs. We’ve had our challenges, misunderstandings, and tough days, but no matter what, we always found our way back to each other. Thank you for your patience, your understanding, and your love that never gave up on us. Thank you for choosing me even when things weren’t easy. That means more than you know.
+                        &emsp;  I’m so thankful for you, not just for the happy moments and laughter we share, but especially for staying with me through all our ups and downs. We’ve had our challenges, misunderstandings, and tough days, but no matter what, we always found our way back to each other. Thank you for your patience, your understanding, and your love that never gave up on us. Thank you for choosing me even when things weren’t easy. That means more than you know. I know lagi tayo nag-aaway pero love mo pa rin ako hehe. i loveeee youuuu, bebiii koooo. sana ako pa rin pipiliin mo ha (dapat lang). Sorry po minsan nai-ignore kita alam mo naman na super busy ang bebi mo hihihi. Enjoy your dayy, bebiiii. muwaahhhhhhh.
                     </span>
                     <br> <br>
                     <span>
