@@ -31,7 +31,7 @@
                 <br>
                 <div class="sincere">
                     <p style="font-weight: bold;"> Laelz,</p>
-                    <p>Your Admirer</p>
+                    <p>Your pogi na asawa</p>
                  </div>
             </div>
         </div>
